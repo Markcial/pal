@@ -1,0 +1,2 @@
+# pal
+Plugin Adapter Library
